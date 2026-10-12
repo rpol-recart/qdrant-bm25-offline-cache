@@ -1,0 +1,15 @@
+qdrant-bm25-offline-cache
+Copyright 2026 the repository contributors.
+
+This product redistributes model cache files from the Qdrant/bm25 model:
+  https://huggingface.co/Qdrant/bm25
+
+Upstream copyright: Qdrant (https://qdrant.tech/)
+Upstream license: Apache License, Version 2.0
+Upstream snapshot revision: 22b8d2af71a76161e18dd432d2cee0eefa66e412
+
+The redistributed files (stopword lists, config.json and associated cache
+metadata) are provided unmodified under the terms of the Apache License,
+Version 2.0. A copy of the license is provided in the LICENSE file.
+
+No endorsement by the upstream authors is implied.
